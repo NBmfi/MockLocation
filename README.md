@@ -10,7 +10,7 @@
 + 虚拟定位需要开发者镜像。软件预置了 iOS 14/15/16/17 的开发者镜像。
 
   如果你的 iOS 版本低于 14，请执行以下步骤:
-    + 进入 [DeveloperDiskImage](https://github.com/NBmfi/MockLocation/DeveloperDiskImage) 仓库
+    + 进入 [DeveloperDiskImage]([https://github.com/NBmfi/MockLocation/DeveloperDiskImage](https://github.com/NBmfi/DeveloperDiskImage)) 仓库
     + 查看自己的 iOS 版本，下载对应的 DeveloperDiskImage.dmg 和 DeveloperDiskImage.dmg.signature
     + 进入 iOS Fake Run 软件文件夹。在 DeveloperDiskImage 文件夹中建立以版本号为名称的文件夹（如 13.7），将刚才下载的两个文件放入此文件夹
 
